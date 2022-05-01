@@ -1,0 +1,52 @@
+#search:focus{
+  width: 200px;
+}
+#search{
+   padding: 5px;
+   border: 3px solid rgb(195, 196, 197);
+   border-radius: 40px;
+   outline: none;
+   width: 30px;
+   padding-left: 20px;
+   background: url('./img/sicon.png') right no-repeat;
+   transition: 2s;
+   -webkit-transition: 2s;
+   -moz-transition: 2s;
+   -o-transition: 2s;
+   -ms-transition: 2s;
+}
+.forml{
+  padding: 50px;
+  background-color:#c2cbc5;
+  border-radius: 7px;
+}
+
+.formll{
+  padding: 50px;
+  background-color:#7facd6;
+  border-radius: 7px;
+}
+
+.margintop10{
+  margin-top: 10px;
+}
+.margintop20{
+  margin-top: 20px;
+}
+.margintop50{
+  margin-top: 50px;
+}
+.marginbottom10{
+  margin-bottom: 10px;
+}
+.marginbottom20{
+  margin-bottom: 20px;
+}
+.marginbottom50{
+  margin-bottom: 50px;
+}
+.forml{
+  padding: 50px;
+  background-color:#c2cbc5;
+  border-radius: 7px;
+}
